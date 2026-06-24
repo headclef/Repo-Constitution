@@ -1,10 +1,10 @@
 {
     "name": "Constitution",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/headclef/Repo-Constitution",
     "description": "Slow passive health regeneration based on your Health upgrade level for R.E.P.O.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "headclef-CharacterStats-1.0.0"
+        "headclef-CharacterStats-1.1.0"
     ]
 }
