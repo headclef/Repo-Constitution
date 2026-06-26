@@ -12,7 +12,7 @@ public class Constitution : BaseUnityPlugin
 {
     private const string PluginGuid = "headclef.Constitution";
     private const string PluginName = "Constitution";
-    private const string PluginVersion = "1.1.0";
+    private const string PluginVersion = "1.1.1";
 
     internal static Constitution Instance { get; private set; } = null!;
     internal new static ManualLogSource Logger => Instance._logger;
